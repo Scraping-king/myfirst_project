@@ -1,3 +1,4 @@
+| books.py | Books to Scrape | Title, Price, Rating, Availability |
 import requests
 from bs4 import BeautifulSoup
 import csv
