@@ -1,3 +1,4 @@
+| APIData.py | FakeStore API | Title, Price, Category, Rating, Count, Description |
 import requests
 import csv
 
