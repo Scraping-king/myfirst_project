@@ -1,3 +1,4 @@
+| quote.py      | Quotes Website     | Quote, Author, Tags 
 import requests
 from bs4 import BeautifulSoup
 import csv
